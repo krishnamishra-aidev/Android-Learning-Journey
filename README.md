@@ -3,7 +3,7 @@ A comprehensive collection of Android development concepts, coding examples, and
 
 This repository documents my Android learning journey from fundamentals to advanced topics through well-structured examples, practical implementations, and reusable code.
 
----
+
 
 ## Objectives
 
@@ -13,7 +13,7 @@ This repository documents my Android learning journey from fundamentals to advan
 - Create a reference repository for future projects
 - Continuously improve coding standards
 
----
+
 
 ## Tech Stack
 
@@ -39,25 +39,24 @@ This repository documents my Android learning journey from fundamentals to advan
 - Glide
 - Git & GitHub
 
----
+
 
 ## Projects
 
 This repository also contains mini Android projects demonstrating real-world implementation of Android concepts.
 
----
+
 
 ## Progress
 
 This repository is continuously updated as I learn new Android technologies and best practices.
 
----
+
 
 ## Contributions
 
 This repository is maintained as a personal learning resource. Suggestions and improvements are always welcome.
 
----
 
 ## Connect
 
