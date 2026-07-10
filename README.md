@@ -1,4 +1,4 @@
-# Android-Learning-Journey
+## Android-Learning-Journey
 A comprehensive collection of Android development concepts, coding examples, and mini projects built using Java, Kotlin, Jetpack, and modern Android development practices.
 
 This repository documents my Android learning journey from fundamentals to advanced topics through well-structured examples, practical implementations, and reusable code.
